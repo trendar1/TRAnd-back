@@ -87,7 +87,7 @@ _set_bot () {
     echo "
 
     "
-    python3 -m Arab
+    python3 -m TRAND
 }
 
 _set_bot
