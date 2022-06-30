@@ -1,9 +1,9 @@
 {
-  "name": "تليثون العرب",
-  "description": "اهلا بك في تليثون العرب",
-  "logo": "https://telegra.ph/file/f1b9e7e1a5b0f719bc5d9.png",
+  "name": " سورس ترند",
+  "description": "اهلا بك في سورس ترند ",
+  "logo": "https://telegra.ph/file/db95c981b448537cd4073.jpg",
   "keywords": ["plugin","modular","productivity"],
-  "repository": "https://github.com/help-iq2/telethon",
+  "repository": "https://heroku.com/deploy?template=https://github.com/trendar1/Trand-back",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -42,7 +42,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتغيرة",
-      "value": "TelethonAr",
+      "value": "https://github.com/trendar1/Telethon-TRAnd",
       "required": false
     }
   },
